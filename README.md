@@ -1,9 +1,16 @@
-# Hey! 👋 I'm Natalia, a passionate **Frontend Developer** from Berlin.
+## Hey! 👋 I'm Natalia, a passionate **Frontend Developer** from Berlin.
 
-💻 **Currently working on:** Building feature-rich web applications using **React, Redux and TailwindCSS**.  
-🚀 **Learning:** Diving deeper into **TypeScript** and **TailwindCSS**.   
+💻 **Currently working on:** Building feature-rich web applications using **React, Redux, and TailwindCSS**.  
+
+🚀 **Learning:** Diving deeper into **TypeScript** and **TailwindCSS**.  
+
 🌱 **Previous experience:** Worked as a **content writer** for 5 years, honing my research, communication, and analytical skills.  
-🔍 **What I love:** Writing code that speaks for itself (just like good content!) 
+
+🔍 **What I love:** Writing code that speaks for itself (just like good content!).
+
+
+
+
 
 ---
 
