@@ -6,7 +6,6 @@
 
 🌱 **Previous experience:** Worked as a **content writer** for 5 years, honing my research, communication, and analytical skills.  
 
-🔍 **What I love:** Writing code that speaks for itself (just like good content!).
 
 
 
