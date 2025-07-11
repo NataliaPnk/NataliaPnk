@@ -1,10 +1,6 @@
 ## Hey! 👋 I'm Natalia, a passionate **Frontend Developer** from Berlin.
 
-💻 **Currently working on:** Building feature-rich web applications using **React, Redux, and TailwindCSS**.  
-
-🚀 **Learning:** Diving deeper into **TypeScript** and **TailwindCSS**.  
-
-🌱 **Previous experience:** Worked as a **content writer** for 5 years, honing my research, communication, and analytical skills.  
+Enthusiastic and fast-learning front-end developer with a strong technical foundation and a positive, can-do attitude. Easily builds rapport with teammates and stakeholders, contributing to a collaborative and supportive work environment. Open-minded, communicative, and always eager to grow — quickly adapts to new tools, technologies, and workflows.
 
 
 
