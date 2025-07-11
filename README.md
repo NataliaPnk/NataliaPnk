@@ -1,7 +1,14 @@
 ## Hey! 👋 I'm Natalia, a passionate **Frontend Developer** from Berlin.
 
-Enthusiastic and fast-learning front-end developer with a strong technical foundation and a positive, can-do attitude. Easily builds rapport with teammates and stakeholders, contributing to a collaborative and supportive work environment. Open-minded, communicative, and always eager to grow — quickly adapts to new tools, technologies, and workflows.
+I'm an enthusiastic and fast-learning Front-End Developer with a strong technical foundation and a positive, can-do attitude.
 
+🤝 I easily build rapport with teammates and stakeholders, helping create a collaborative and supportive work environment.
+
+💬 Open-minded and communicative — I value clear communication and shared learning.
+
+🚀 Always eager to grow, I quickly adapt to new tools, technologies, and workflows.
+
+Let's build something amazing together!
 
 
 
